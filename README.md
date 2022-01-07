@@ -19,15 +19,9 @@ In the following sample I provided a simple example for Text Extraction, but it 
 
 It provides the data in JSON format, so we can after that work with the front-end team to convert it to Markdown for editing purposes if the writer will be willing to perform it.
 
-## Credentials
-
-I have created a personal Adobe Developer Console Account for the time being.
+## API Location
 
 https://developer.adobe.com/console/home
-
-login: Daniel.Tyukov@alphait.us
-
-pass: !BCmS5u}YsD?#XK
 
 project: alphait-versoviewai
 
