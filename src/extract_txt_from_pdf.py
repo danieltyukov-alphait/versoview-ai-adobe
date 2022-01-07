@@ -8,6 +8,9 @@ from adobe.pdfservices.operation.pdfops.options.extractpdf.extract_element_type 
 from adobe.pdfservices.operation.execution_context import ExecutionContext
 from adobe.pdfservices.operation.io.file_ref import FileRef
 from adobe.pdfservices.operation.pdfops.extract_pdf_operation import ExtractPDFOperation
+from adobe.pdfservices.operation.pdfops.options.extractpdf.extract_renditions_element_type import \
+    ExtractRenditionsElementType
+from adobe.pdfservices.operation.pdfops.options.extractpdf.table_structure_type import TableStructureType
 
 logging.basicConfig(level=os.environ.get("LOGLEVEL", "INFO"))
 
@@ -30,7 +33,10 @@ try:
 
     # Build ExtractPDF options and set them into the operation
     extract_pdf_options: ExtractPDFOptions = ExtractPDFOptions.builder() \
-        .with_element_to_extract(ExtractElementType.TEXT) \
+        .with_elements_to_extract([ExtractElementType.TEXT, ExtractElementType.TABLES]) \
+        .with_get_char_info(True) \
+        .with_include_styling_info(True) \
+        .with_element_to_extract_renditions(ExtractRenditionsElementType.FIGURES) \
         .build()
     extract_pdf_operation.set_options(extract_pdf_options)
 
