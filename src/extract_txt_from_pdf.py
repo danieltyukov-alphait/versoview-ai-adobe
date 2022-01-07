@@ -17,7 +17,7 @@ try:
 
     # Initial setup, create credentials instance.
     credentials = Credentials.service_account_credentials_builder() \
-        .from_file(base_path + "/pdfservices-api-credentials.json") \
+        .from_file(base_path + "\\versoview-ai-adobe\\pdfservices-api-credentials.json") \
         .build()
 
     # Create an ExecutionContext using credentials and create a new operation instance.
@@ -25,7 +25,7 @@ try:
     extract_pdf_operation = ExtractPDFOperation.create_new()
 
     # Set operation input from a source file.
-    source = FileRef.create_from_local_file(base_path + "/resources/extractPdfInput.pdf")
+    source = FileRef.create_from_local_file(base_path + "\\versoview-ai-adobe\\resources\\extractPdfInput.pdf")
     extract_pdf_operation.set_input(source)
 
     # Build ExtractPDF options and set them into the operation
@@ -38,6 +38,6 @@ try:
     result: FileRef = extract_pdf_operation.execute(execution_context)
 
     # Save the result to the specified location.
-    result.save_as(base_path + "/output/ExtractTextInfoFromPDF.zip")
+    result.save_as(base_path + "\\versoview-ai-adobe\\output\\ExtractTextInfoFromPDF.zip")
 except (ServiceApiException, ServiceUsageException, SdkException):
     logging.exception("Exception encountered while executing operation")
