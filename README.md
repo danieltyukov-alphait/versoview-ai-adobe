@@ -3,7 +3,7 @@
 pip install pdfservices-sdk
 python version: 3.6 =< ...
 
-(I am using Python 3.10)
+(I am using Python 3.9.9)
 
 ## Solution Tool
 
@@ -30,3 +30,7 @@ login: Daniel.Tyukov@alphait.us
 pass: !BCmS5u}YsD?#XK
 
 project: alphait-versoviewai
+
+## Execution
+
+python src/extract_txt_from_pdf.py
