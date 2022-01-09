@@ -1,0 +1,681 @@
+{
+    "version": {
+        "json_export": "171",
+        "page_segmentation": "5",
+        "schema": "1.0.0",
+        "structure": "1.949.0",
+        "table_structure": "5"
+    },
+    "extended_metadata": {
+        "ID_instance": "E6 62 89 5B 23 B3 B2 11 0A 00 67 45 8B 6B C6 23 ",
+        "ID_permanent": "45 31 20 37 46 20 37 34 20 35 42 20 32 33 20 42 33 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+        "pdf_version": "1.6",
+        "pdfa_compliance_level": "",
+        "is_encrypted": false,
+        "has_acroform": false,
+        "is_digitally_signed": false,
+        "pdfua_compliance_level": "",
+        "page_count": 4,
+        "has_embedded_files": false,
+        "is_certified": false,
+        "is_XFA": false,
+        "language": ""
+    },
+    "elements": [
+        {
+            "Bounds": [
+                161.43280029296875,
+                1094.3773040771484,
+                657.2074890136719,
+                1114.2419128417969
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/P",
+            "Text": "MORE INSPIRATIONAL HOMES THAN ANY OTHER MAGAZINE ",
+            "TextSize": 14.322006225585938,
+            "attributes": {
+                "LineHeight": 17.25,
+                "SpaceAfter": -188.75,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                22.37109375,
+                758.6801452636719,
+                770.9816436767578,
+                1112.7262573242188
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Title",
+            "Text": "HOMES25 BEAUTIFULCONFIDENT DESIGN ",
+            "TextSize": 67.73049926757812,
+            "attributes": {
+                "LineHeight": 254.75,
+                "SpaceAfter": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                69.99978637695312,
+                686.2223815917969,
+                285.37730407714844,
+                737.4432983398438
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/H1",
+            "Text": "BOLD DECORATING INSPIRATION ",
+            "TextSize": 21.824005126953125,
+            "attributes": {
+                "LineHeight": 19.75,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                47.23735046386719,
+                622.7363586425781,
+                309.3022003173828,
+                693.0751190185547
+            ],
+            "Font": {
+                "alt_family_name": "Baskerville",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Baskerville",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+Baskerville-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/P[2]",
+            "Text": "From a daring, colourful terrace to a dark and dramatic cottage ",
+            "TextSize": 21.824005126953125,
+            "attributes": {
+                "LineHeight": 19.75,
+                "SpaceAfter": 18,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                76.74339294433594,
+                512.7215728759766,
+                278.7832946777344,
+                583.7150421142578
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/H1[2]",
+            "Text": "FRESH LOOKS FOR KITCHENS & BATHROOMS ",
+            "TextSize": 21.824005126953125,
+            "attributes": {
+                "LineHeight": 19.75,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                74.58282470703125,
+                469.0081024169922,
+                281.93927001953125,
+                519.5743103027344
+            ],
+            "Font": {
+                "alt_family_name": "Baskerville",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Baskerville",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+Baskerville-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/P[3]",
+            "Text": "Original projects full of ideas to steal ",
+            "TextSize": 21.824005126953125,
+            "attributes": {
+                "LineHeight": 19.75,
+                "SpaceAfter": 18,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                204.02670288085938,
+                60.820587158203125,
+                622.0748748779297,
+                133.29307556152344
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/P[4]",
+            "Text": "STYLE SECRETS ",
+            "TextSize": 51.36250305175781,
+            "attributes": {
+                "LineHeight": 61.625,
+                "SpaceAfter": 3.125,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                158.11410522460938,
+                35.87226867675781,
+                653.7169036865234,
+                72.43975830078125
+            ],
+            "Font": {
+                "alt_family_name": "Baskerville",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Baskerville",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+Baskerville-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/P[5]/Sub",
+            "Text": "Interior designers and homeowners share",
+            "TextSize": 25.916000366210938,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                217.3580780029297,
+                9.956283569335938,
+                600.3776702880859,
+                46.52375793457031
+            ],
+            "Font": {
+                "alt_family_name": "Baskerville",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Baskerville",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+Baskerville-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/P[5]/Sub[2]",
+            "Text": "how they achieved their dreams ",
+            "TextSize": 25.916000366210938,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0,
+                811.0800018310547,
+                1122.001708984375
+            ],
+            "ClipBounds": [
+                55.90800476074219,
+                248.42599487304688,
+                811.0800018310547,
+                1063.093017578125
+            ],
+            "Page": 1,
+            "Path": "//Document/Figure",
+            "attributes": {
+                "BBox": [
+                    56.15769999999975,
+                    248.67599999999948,
+                    810.926999999996,
+                    1062.8399999999674
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                59.03999328613281,
+                141.17340087890625,
+                642.3030242919922,
+                213.49349975585938
+            ],
+            "Font": {
+                "alt_family_name": "* Titlingmes New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Titlingmes New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-Bold-1274",
+                "subset": false,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/P[6]",
+            "Text": "Q, ur kitch1ens are guaranteed for 25 years. That's a generation o,f memorable, meals. ",
+            "TextSize": 30.0,
+            "attributes": {
+                "LineHeight": 38.625,
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                58.32000732421875,
+                55.0697021484375,
+                609.2199554443359,
+                75.25970458984375
+            ],
+            "Font": {
+                "alt_family_name": "* Arial",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Arial",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Arial-1275",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/P[7]",
+            "Text": "Excl.Jdes: l<Hd'lenapptianoes. laps, sinks. lmernal and extemal storage, bins. cabinet eo:essorles. handles. U'lder cabinet lfltllfng. eminet hanglngbask.et'!I. Sea dly.com/customer-s1.4=>poM,1xlleies/tenns and flJI g,aant&e T&C\"s. This does not affect yo\\l' legal ri\u0141l&. ",
+            "TextSize": 10.0,
+            "attributes": {
+                "LineHeight": 10.375
+            }
+        },
+        {
+            "Bounds": [
+                -0.3600006103515625,
+                0.0,
+                810.9571228027344,
+                1122.001708984375
+            ],
+            "ClipBounds": [
+                -0.3600006103515625,
+                249.9600067138672,
+                755.6400299072266,
+                1062.7320556640625
+            ],
+            "Page": 2,
+            "Path": "//Document/Figure[2]",
+            "attributes": {
+                "BBox": [
+                    0.0,
+                    253.47499999999854,
+                    755.368999999977,
+                    1062.4799999999814
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0,
+                810.9571228027344,
+                1122.001708984375
+            ],
+            "ClipBounds": [
+                629.0040283203125,
+                92.552001953125,
+                755.6399993896484,
+                218.56700134277344
+            ],
+            "Page": 2,
+            "Path": "//Document/Figure[3]",
+            "attributes": {
+                "BBox": [
+                    629.2539999999863,
+                    92.80189999999857,
+                    753.5689999999886,
+                    218.31699999999546
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                630.4799957275391,
+                54.84590148925781,
+                761.2791137695312,
+                73.13389587402344
+            ],
+            "Font": {
+                "alt_family_name": "* Titlingmes New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Titlingmes New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-Bold-1731",
+                "subset": false,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/P[8]",
+            "Text": "Yo\u00b7u can do it ",
+            "TextSize": 23.0,
+            "attributes": {
+                "LineHeight": 27.625,
+                "TextAlign": "End"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0,
+                810.9571228027344,
+                1122.001708984375
+            ],
+            "ClipBounds": [
+                17.988998413085938,
+                243.8400115966797,
+                810.9571228027344,
+                1091.8909912109375
+            ],
+            "Page": 3,
+            "Path": "//Document/Figure[4]",
+            "attributes": {
+                "BBox": [
+                    18.239299999999275,
+                    250.95499999999447,
+                    810.8069999999716,
+                    1091.6399999999558
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                -0.1199951171875,
+                810.9571228027344,
+                1122.001708984375
+            ],
+            "ClipBounds": [
+                21.3489990234375,
+                -0.1199951171875,
+                304.43798828125,
+                239.92599487304688
+            ],
+            "Page": 3,
+            "Path": "//Document/Figure[5]",
+            "attributes": {
+                "BBox": [
+                    21.599099999999453,
+                    18.04489999999987,
+                    304.18799999999464,
+                    239.67599999999948
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                332.1600036621094,
+                161.3625030517578,
+                752.4427337646484,
+                193.4824981689453
+            ],
+            "Font": {
+                "alt_family_name": "* Arial",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Arial",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Arial-3844",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/H1[3]",
+            "Text": "NEW Double Serum Eye ",
+            "TextSize": 36.5,
+            "attributes": {
+                "LineHeight": 43.75
+            }
+        },
+        {
+            "Bounds": [
+                331.9199981689453,
+                137.90460205078125,
+                681.3980560302734,
+                155.80560302734375
+            ],
+            "Font": {
+                "alt_family_name": "* Arial",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Arial",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Arial-3843",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/H1[4]",
+            "Text": "Intensely Nourishes. Smooths. Firms. ",
+            "TextSize": 19.5,
+            "attributes": {
+                "LineHeight": 23.375,
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                330.7200012207031,
+                41.381500244140625,
+                775.6319732666016,
+                112.74850463867188
+            ],
+            "Font": {
+                "alt_family_name": "* Arial",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Arial",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Arial-3837",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/P[9]",
+            "Text": "Innovation: our unique double formula visibly acts on multiple signs of a.geing around the ey,e area. 9:6% from natural origins, enriched with 13 plant extracts including organic wild chervil and turmeric extracts. ",
+            "TextSize": 15.5,
+            "attributes": {
+                "LineHeight": 19
+            }
+        }
+    ],
+    "pages": [
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ]
+            },
+            "height": 1121.27001953125,
+            "page_number": 0,
+            "rotation": 0,
+            "width": 811.9600219726562
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    810.9600219726562,
+                    1122.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    810.9600219726562,
+                    1122.0
+                ]
+            },
+            "height": 1122.0,
+            "page_number": 1,
+            "rotation": 0,
+            "width": 810.9600219726562
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    810.9600219726562,
+                    1122.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    810.9600219726562,
+                    1122.0
+                ]
+            },
+            "height": 1122.0,
+            "page_number": 2,
+            "rotation": 0,
+            "width": 810.9600219726562
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    810.9600219726562,
+                    1122.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    810.9600219726562,
+                    1122.0
+                ]
+            },
+            "height": 1122.0,
+            "page_number": 3,
+            "rotation": 0,
+            "width": 810.9600219726562
+        }
+    ]
+}
