@@ -1,0 +1,1968 @@
+{
+    "version": {
+        "json_export": "171",
+        "page_segmentation": "5",
+        "schema": "1.0.0",
+        "structure": "1.949.0",
+        "table_structure": "5"
+    },
+    "extended_metadata": {
+        "ID_instance": "A4 2A 54 E4 26 B3 B2 11 0A 00 67 45 8B 6B C6 23 ",
+        "ID_permanent": "45 32 20 39 46 20 34 37 20 45 34 20 32 36 20 42 33 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+        "pdf_version": "1.6",
+        "pdfa_compliance_level": "",
+        "is_encrypted": false,
+        "has_acroform": false,
+        "is_digitally_signed": false,
+        "pdfua_compliance_level": "",
+        "page_count": 4,
+        "has_embedded_files": false,
+        "is_certified": false,
+        "is_XFA": false,
+        "language": ""
+    },
+    "elements": [
+        {
+            "Bounds": [
+                525.4550933837891,
+                1065.2718505859375,
+                787.3001861572266,
+                1095.541748046875
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPF+IdealSans-Book-SC700",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/P",
+            "Text": "EDITOR\u2019S LETTER  | 25bh ",
+            "TextSize": 19.095993041992188,
+            "attributes": {
+                "LineHeight": 16,
+                "TextAlign": "End"
+            }
+        },
+        {
+            "Bounds": [
+                104.4468994140625,
+                944.9600830078125,
+                241.68585205078125,
+                1024.1347198486328
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P",
+            "Text": "HOMES 25 BEAUTIFULEDITORIAL ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 59.75
+            }
+        },
+        {
+            "Bounds": [
+                55.23002624511719,
+                873.6017913818359,
+                299.77891540527344,
+                948.6221923828125
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[2]",
+            "Text": "EDITORIAL DIRECTOR Sarah Spiteri Homes Editor Fiona Mace Group Creative Director Emma Williams Group Chief Sub Editor Jennifer Spaeth Content and Product Development Director Michael Holmes Brand Development Director Laura Crombie Homes Content Team Editorial Director Rhoda Parry ",
+            "TextSize": 9.1387939453125,
+            "attributes": {
+                "SpaceAfter": 14.25
+            }
+        },
+        {
+            "Bounds": [
+                70.18110656738281,
+                807.6105194091797,
+                284.6756286621094,
+                861.9224090576172
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[3]",
+            "Text": "Group Art Director Alison Walter Art Editors Melanie Brown and Paula Jardine Head of Subs Operations Maxine Clarke Hub Chief Sub Editor Carly Rigley Senior Sub Editors Marian McNamara and Karen Wiley ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                126.80479431152344,
+                787.1916809082031,
+                229.46263122558594,
+                806.1103668212891
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[4]",
+            "Text": "MANAGEMENT ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                73.88569641113281,
+                777.9602508544922,
+                280.96815490722656,
+                790.8551025390625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[5]",
+            "Text": "Senior Vice President, Womens, Homes & Country ",
+            "TextSize": 9.1387939453125,
+            "attributes": {
+                "LineHeight": 11
+            }
+        },
+        {
+            "Bounds": [
+                69.76409912109375,
+                726.1889495849609,
+                285.2572326660156,
+                780.2540893554688
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[6]",
+            "Text": "Sophie Wybrew-Bond Managing Director of Homes Jason Orme Chief Audience & Ecommerce Officer Aaron Asadi Finance Director Mags & Subs Dan Jotcham SVP Global Operations & Marketforce Adrian Hughes ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                129.5155029296875,
+                705.7841796875,
+                226.52706909179688,
+                724.7028656005859
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[7]",
+            "Text": "SYNDICATION ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                55.73170471191406,
+                696.5526580810547,
+                299.25401306152344,
+                709.4474945068359
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[8]",
+            "Text": "Sales Executive Efi Mandrides (efi.mandrides@futurenet.com) ",
+            "TextSize": 9.1387939453125,
+            "attributes": {
+                "LineHeight": 11
+            }
+        },
+        {
+            "Bounds": [
+                130.0948944091797,
+                676.1594848632812,
+                225.99075317382812,
+                695.0781555175781
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[9]",
+            "Text": "CIRCULATION ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                106.21180725097656,
+                666.9267578125,
+                248.5111541748047,
+                679.8215942382812
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[10]",
+            "Text": "Circulation Manager Katie Greenan ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                115.32318115234375,
+                656.7278442382812,
+                239.814697265625,
+                669.2205963134766
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[11]",
+            "Text": "(katie.greenan@futurenet.com) ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                135.57940673828125,
+                636.1763763427734,
+                221.31851196289062,
+                655.0950622558594
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[12]",
+            "Text": "MARKETING ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                61.79570007324219,
+                606.3918914794922,
+                293.2145690917969,
+                639.8399047851562
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[13]",
+            "Text": "Head of Marketing Sian Cupid (sian.cupid@futurenet.com) Deputy Head of Marketing Laura Timms (laura.timms@futurenet.com) ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                131.36419677734375,
+                585.8379821777344,
+                224.74185180664062,
+                604.7566528320312
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[14]",
+            "Text": "ADVERTISING ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                54.13029479980469,
+                535.3448638916016,
+                300.4718780517578,
+                589.5014038085938
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[15]",
+            "Text": "Commercial Director Rob Biagioni (rob.biagioni@futurenet.com) Head of Homes Nicola Ponting (nicola.ponting@futurenet.com) Brand Director Rebecca Vincze (rebecca.vincze@futurenet.com) ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                90.20114135742188,
+                514.6363525390625,
+                264.850830078125,
+                537.7301025390625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[16]",
+            "Text": "International/Luxury Accounts Manager Carole Bunce (carole.bunce@futurenet.com) ",
+            "TextSize": 9.1387939453125,
+            "attributes": {
+                "LineHeight": 10.375,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                111.45799255371094,
+                504.12672424316406,
+                243.54278564453125,
+                517.0215759277344
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[17]",
+            "Text": "Classified Advertising Enquiries ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                84.34317016601562,
+                493.9278259277344,
+                270.71705627441406,
+                506.4205627441406
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[18]",
+            "Text": "Simone Adams (simone.adams@futurenet.com) ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                131.79600524902344,
+                473.3625793457031,
+                224.26585388183594,
+                492.28126525878906
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "no",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[19]",
+            "Text": "INSERT SALES ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                69.22189331054688,
+                453.77549743652344,
+                285.6302032470703,
+                477.02459716796875
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[20]",
+            "Text": "Canopy Media Michael Davie (020 7611 1062) Insert Sales Manager Katherine Brown (07464 544375) ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                130.66639709472656,
+                433.3811798095703,
+                225.39984130859375,
+                452.29986572265625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[21]",
+            "Text": "PRODUCTION ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                100.10040283203125,
+                424.1483459472656,
+                254.5974884033203,
+                437.04319763183594
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[22]",
+            "Text": "Head of Art Production Nicola Tillman ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                70.58207702636719,
+                393.0855712890625,
+                284.2716827392578,
+                426.6889343261719
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/Aside/P",
+            "Text": "Art Production Designers Chris Saggers and Phil Dunk Group Production Manager Clare Scott Production Controller Bill Argent ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                82.51734924316406,
+                362.01365661621094,
+                272.1964569091797,
+                395.62615966796875
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/Aside[2]/P",
+            "Text": "Advertising Production Manager Nick Williams (nick.williams@futurenet.com) Senior Ad Production Manager Jo Crosby ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                83.90109252929688,
+                341.6164855957031,
+                272.24859619140625,
+                360.53515625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[23]",
+            "Text": "INTERNATIONAL LICENSING ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                70.38825988769531,
+                300.36279296875,
+                284.4752960205078,
+                345.0332489013672
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[24]",
+            "Text": "25 Beautiful Homes is available for licensing. To find our more contact us at licensing@futurenet.com or view our available content at www.futurecontenthub.com Head of Print Licensing Rachel Shaw ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                90.02070617675781,
+                270.73504638671875,
+                265.98204040527344,
+                298.88665771484375
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[25]",
+            "Text": "SUBSCRIPTION ENQUIRIES help@magazinesdirect.com ",
+            "TextSize": 13.639999389648438
+        },
+        {
+            "Bounds": [
+                134.90249633789062,
+                250.3418731689453,
+                221.1862030029297,
+                269.26055908203125
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[26]",
+            "Text": "BACK ISSUES ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                56.02973937988281,
+                199.8473663330078,
+                298.87107849121094,
+                254.00390625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Aside/P[27]",
+            "Text": "Magazines Direct help@magazinesdirect.com (+44(0)330 333 1113) magazinesdirect.com Vol 24 No 10  ISSN 1369529 \u00a9 Future PLC, 2021. Distributed by Marketforce (UK) Ltd, 3rd Floor, 161 Marsh Wall, London E14 9AP (020 3787 9001) ",
+            "TextSize": 9.1387939453125
+        },
+        {
+            "Bounds": [
+                463.6318054199219,
+                864.9425354003906,
+                771.0202331542969,
+                939.6897430419922
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Display",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Display",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODOE+RequiemDisplay-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Title",
+            "Text": "WELCOME ",
+            "TextSize": 54.55999755859375,
+            "attributes": {
+                "LineHeight": 65.5,
+                "SpaceAfter": 16.875
+            }
+        },
+        {
+            "Bounds": [
+                346.67149353027344,
+                559.7584228515625,
+                723.4238433837891,
+                858.7431182861328
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Text",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Text",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODNE+RequiemText-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]",
+            "Text": "One of the many advantages of being able to feature so many home projects each month is the fact that we can present every type of house, from country barns to bijou apartments. Despite the great variation, the one thing they all have in common is the care each owner has poured into their home. We love how Emily Hutchings went to great lengths to make the conversion of her barn in Devon sympathetic to its surroundings (p34). Having moved from Hong Kong to London, Pauline Gidoin was familiar with enhancing small spaces and drew on her architecture skills when it came to maximising every inch of her new apartment (p95). We were also impressed with how Laura and Kevin Purdy planned the redo of their period property and then worked around the clock to make it happen. See it on page 84. ",
+            "TextSize": 15.003997802734375,
+            "attributes": {
+                "LineHeight": 23.125,
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                582.2669982910156,
+                528.3917694091797,
+                739.1748809814453,
+                543.7886047363281
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPH+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/H1",
+            "Text": "FIONA MACE, HOMES EDITOR ",
+            "TextSize": 10.912002563476562,
+            "attributes": {
+                "LineHeight": 13.125,
+                "TextAlign": "End"
+            }
+        },
+        {
+            "Bounds": [
+                408.41709899902344,
+                476.8599853515625,
+                492.71775817871094,
+                495.7786560058594
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/H1",
+            "Text": "INSTAGRAM ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "SpaceAfter": -3.874979999999937,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                340.73541259765625,
+                442.9918670654297,
+                560.1203002929688,
+                480.7064666748047
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P",
+            "Text": "Follow us @25beautifulhomesmagazine DIGITAL EDITIONS ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 18.875,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                364.0734558105469,
+                428.27430725097656,
+                536.7709350585938,
+                446.8383331298828
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P[2]",
+            "Text": "Find back issues on your device ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                645.3166198730469,
+                476.32801818847656,
+                720.3277893066406,
+                495.2467041015625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPI+IdealSans-Medium",
+                "subset": true,
+                "weight": 500
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/H1",
+            "Text": "SUBSCRIBE ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "LineHeight": 16.375,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                623.7108612060547,
+                461.59681701660156,
+                741.6699066162109,
+                480.1608581542969
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P/Sub",
+            "Text": "to 25 Beautiful Homes ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                625.1976165771484,
+                446.5928192138672,
+                740.2041778564453,
+                465.1568603515625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P/Sub[2]",
+            "Text": "for just \u00a334.49 a year ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                631.2946929931641,
+                431.5888214111328,
+                734.1037902832031,
+                450.1528625488281
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P/Sub[3]",
+            "Text": "and save 40% (see ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                640.0652160644531,
+                416.58482360839844,
+                725.3201141357422,
+                435.14886474609375
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P/Sub[4]",
+            "Text": "page 72). Go to ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                634.8001861572266,
+                401.58082580566406,
+                730.6701354980469,
+                420.1448669433594
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P/Sub[5]",
+            "Text": "magazinesdirect. ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                633.4498138427734,
+                386.5768127441406,
+                731.9817504882812,
+                405.1434631347656
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAK+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P/Sub[6]",
+            "Text": "com/25BHOCT21 ",
+            "TextSize": 13.639999389648438,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                326.4542999267578,
+                309.56797790527344,
+                751.1705474853516,
+                349.4076843261719
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[2]",
+            "Text": "We are committed to only using magazine paper which is derived from responsibly managed, certified forestry and chlorine-free manufacture. The paper in this magazine was sourced and produced from sustainable managed forests, conforming to strict environmental and socioeconomic standards. The manufacturing paper mill and printer hold full FSC and PEFC certification and accreditation. ",
+            "TextSize": 8.184005737304688
+        },
+        {
+            "Bounds": [
+                326.4502258300781,
+                229.31161499023438,
+                759.7645721435547,
+                308.92567443847656
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[3]",
+            "Text": "All contents \u00a9 2021 Future Publishing Limited or published under licence. All rights reserved. No part of this magazine may be used, stored, transmitted or reproduced in any way without the prior written permission of the publisher. Future Publishing Limited (company number 2008885) is registered in England and Wales. Registered office: Quay House, The Ambury, Bath BA1 1UA. All information contained in this publication is for information only and is, as far as we are aware, correct at the time of going to press. Future cannot accept any responsibility for errors or inaccuracies in such information. You are advised to contact manufacturers and retailers directly with regard to the price of products/services referred to in this publication. Apps and websites mentioned in this publication are not under our control. We are not responsible for their contents or any other changes or updates to them. This magazine is fully independent and not affiliated in any way with the companies mentioned herein. ",
+            "TextSize": 8.184005737304688
+        },
+        {
+            "Bounds": [
+                326.4502258300781,
+                168.1444091796875,
+                751.329345703125,
+                227.0855712890625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[4]",
+            "Text": "If you submit material to us, you warrant that you own the material and/or have the necessary rights/permissions to supply the material and you automatically grant Future and its licensees a licence to publish your submission in whole or in part in any/all issues and/or editions of publications, in any format published worldwide and on associated websites, social media channels and associated products. Any material you submit is sent at your own risk and, although every care is taken, neither Future nor its employees, agents, subcontractors or licensees shall be liable for loss or damage. We assume all unsolicited material is for publication unless otherwise stated, and reserve the right to edit, amend, adapt all submissions. ",
+            "TextSize": 8.184005737304688,
+            "attributes": {
+                "SpaceAfter": 6.875
+            }
+        },
+        {
+            "Bounds": [
+                326.4542999267578,
+                113.50544738769531,
+                761.8637542724609,
+                162.89588928222656
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[5]",
+            "Text": "Editorial Complaints We work hard to achieve the highest standards of editorial content, and we are committed to complying with the Editors\u2019 Code of Practice (ipso.co.uk/IPSO/cop.html) as enforced by IPSO. If you have a complaint about our editorial content, you can email us at 25beautifulhomes@futurenet.com or write to 25 Beautiful Homes, Future, 161 Marsh Wall, London E14 9AP. Please provide details of the material you are complaining about and explain your complaint by reference to the Editors\u2019 Code. We will endeavour to acknowledge your complaint within five working days and we aim to correct substantial errors as soon as possible. ",
+            "TextSize": 8.184005737304688,
+            "attributes": {
+                "SpaceAfter": 15.625
+            }
+        },
+        {
+            "Bounds": [
+                326.4542999267578,
+                59.72688293457031,
+                666.3032531738281,
+                99.56658935546875
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMODPJ+IdealSans-Book",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[6]",
+            "Text": "25 Beautiful Homes is published by Future PLC, 161 Marsh Wall, London E14 9AP. Printed by Walstead UK Limited. Cover printed by Walstead UK Limited. Publisher\u2019s subscriptions rates for 12 issues (including p&p): UK, \u00a357.60; Europe and Eire, \u20ac187.80; USA and Canada, $122.80; rest of the world, \u00a3143.30. For all subscription enquiries and UK orders, please email help@magazinesdirect.com. ",
+            "TextSize": 8.184005737304688,
+            "attributes": {
+                "SpaceAfter": 17.5
+            }
+        },
+        {
+            "Bounds": [
+                616.0301055908203,
+                27.129226684570312,
+                760.1025085449219,
+                45.20428466796875
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "MMOEAM+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[7]",
+            "Text": "25BH O C TO BER 2021 | 9 ",
+            "TextSize": 11.593994140625,
+            "attributes": {
+                "LineHeight": 13.875,
+                "TextAlign": "End"
+            }
+        },
+        {
+            "Bounds": [
+                128.55490112304688,
+                947.4776000976562,
+                593.3551177978516,
+                1040.911605834961
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Display",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Requiem Display",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+RequiemDisplay-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/H1",
+            "Text": "Fresh THINKING ",
+            "TextSize": 68.19999694824219,
+            "attributes": {
+                "LineHeight": 81.875,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                91.31460571289062,
+                908.7701416015625,
+                619.8166046142578,
+                957.9423370361328
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "RCLWAJ+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect/H2",
+            "Text": "Rachael and Tom Somerville have reconfigured a period house and added a contemporary extension to create a welcoming family home ",
+            "TextSize": 19.095993041992188,
+            "attributes": {
+                "LineHeight": 23.25,
+                "SpaceAfter": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                227.03680419921875,
+                879.5660247802734,
+                490.3123474121094,
+                894.6900634765625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect/Sect/H3",
+            "Text": "FEATURE AMELIA THORPE | PHOTOGRAPHY PAUL CRAIG ",
+            "TextSize": 9.548004150390625,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                65.68409729003906,
+                623.0193023681641,
+                211.22938537597656,
+                645.2961578369141
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "RCLWAJ+IdealSans-Light",
+                "subset": true,
+                "weight": 300
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect[2]/H2",
+            "Text": "HOME TRUTHS ",
+            "TextSize": 16.367996215820312,
+            "attributes": {
+                "LineHeight": 19.625
+            }
+        },
+        {
+            "Bounds": [
+                65.34309387207031,
+                599.8548278808594,
+                173.9547882080078,
+                615.5790252685547
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect[2]/P",
+            "Text": "T H E PRO P E R T Y ",
+            "TextSize": 10.912002563476562
+        },
+        {
+            "Bounds": [
+                65.34309387207031,
+                501.64683532714844,
+                203.85092163085938,
+                602.8119812011719
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect[2]/P[2]",
+            "Text": "Georgian three-storey house L O C AT I O N Shropshire RO O M S Sitting room, kitchen-diner/family room, playroom, cloakroom, utility room, gym, five bedrooms (three en suite), one bathroom P U R C HA SE D 2017 ",
+            "TextSize": 10.912002563476562
+        },
+        {
+            "Bounds": [
+                65.34309387207031,
+                465.1352844238281,
+                216.53526306152344,
+                505.0950164794922
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect[2]/P[3]",
+            "Text": "PR E V I O U S PRO P E RT Y \u2018We moved from a rural barn conversion,\u2019 says Rachael. ",
+            "TextSize": 10.912002563476562,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                128.2357940673828,
+                144.7727813720703,
+                241.1415557861328,
+                160.1696014404297
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/H3",
+            "Text": "KITCHEN-DINER ",
+            "TextSize": 10.912002563476562
+        },
+        {
+            "Bounds": [
+                68.89634704589844,
+                59.026275634765625,
+                296.8574981689453,
+                147.8936004638672
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Semibold",
+                "subset": true,
+                "weight": 600
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P",
+            "Text": "A faux chimney breast with overmantel adds character, while the antiqued glass splashback reflects light and boosts the sense of space. Units in Purbeck Stone with island in Railings, both modern eggshell, \u00a373 for 2.5ltr, Farrow & Ball. Ottawa table, from \u00a31,989, BoConcept. Wire frame upholstered chairs, \u00a3220 each, West Elm ",
+            "TextSize": 10.912002563476562,
+            "attributes": {
+                "LineHeight": 12.25,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                -1.55999755859375,
+                0.000274658203125,
+                815.2817840576172,
+                1125.1349334716797
+            ],
+            "ClipBounds": [
+                -1.25,
+                0.000274658203125,
+                815.2817840576172,
+                1125.1349334716797
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/Figure",
+            "attributes": {
+                "BBox": [
+                    0.0,
+                    20.794799999999668,
+                    790.167999999976,
+                    1093.9099999999744
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.000274658203125,
+                815.2817840576172,
+                1125.1349334716797
+            ],
+            "ClipBounds": [
+                710.6010131835938,
+                1039.79296875,
+                779.7908630371094,
+                1083.8509521484375
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/Figure[2]",
+            "attributes": {
+                "BBox": [
+                    710.8509999999951,
+                    1036.1899999999441,
+                    777.6879999999946,
+                    1079.75
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                49.222900390625,
+                183.00489807128906,
+                391.12379455566406,
+                356.1269226074219
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Text",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Text",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "WYDQSZ+RequiemText-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P[2]",
+            "Text": "Hidden behind a tall brick wall and large timber gates, Rachael and Tom Somerville were not sure what to expect when they first saw this house. But as they made their way through the gates, they spied rolling lawns and leafy green trees, dropping down to woodland beyond. \u2018The house is in the centre of town but with a huge garden backing onto a beautiful conservation area, so it feels as if it is in the countryside,\u2019 explains Rachael, \u2018yet we are only a five-minute walk from the local supermarket and butcher.\u2019 ",
+            "TextSize": 12.957992553710938,
+            "attributes": {
+                "SpaceAfter": -9.749979999999596
+            }
+        },
+        {
+            "Bounds": [
+                54.13267517089844,
+                135.92848205566406,
+                400.5602111816406,
+                185.28550720214844
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Text",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Text",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "WYDQSZ+RequiemText-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P[3]",
+            "Text": "While they admired the original features of the house, including tall ceilings, sash windows and shutters, Rachael and Tom knew they had some work to do on the interior. \u2018The layout of small ",
+            "TextSize": 12.957992553710938
+        },
+        {
+            "Bounds": [
+                413.71717834472656,
+                245.7086639404297,
+                751.8834686279297,
+                326.449951171875
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Text",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Text",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "WYDQSZ+RequiemText-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P[4]",
+            "Text": "rooms didn\u2019t work for us because we wanted more of an open-plan feel and a better sense of flow between spaces,\u2019 explains Rachael. \u2018We also felt that there was potential to convert the cellar, which had a very low ceiling, into a more usable space, and to improve the connection with the wonderful garden.\u2019 ",
+            "TextSize": 12.957992553710938
+        },
+        {
+            "Bounds": [
+                413.71717834472656,
+                135.8636932373047,
+                754.4933624267578,
+                247.98927307128906
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Text",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Text",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "WYDQSZ+RequiemText-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P[5]",
+            "Text": "The couple moved into a rented property while they consulted an architect, sought planning permission and hired a building firm. As the house is built into a slope, the cellar is below ground at the front of the property and at ground level at the rear. \u2018We were able to dig down to increase the height of the cellar and extend it at the back of the house with a flat-roofed single-storey structure, clad in beautiful copper-effect aluminium,\u2019 says Rachael. This new ",
+            "TextSize": 12.957992553710938,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                100.03375244140625,
+                57.63584899902344,
+                715.7331848144531,
+                105.76596069335938
+            ],
+            "Font": {
+                "alt_family_name": "Requiem Text",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Requiem Text",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "WYDQSZ+RequiemText-Roman",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P[6]",
+            "Text": "decorating advice \u2018Choose an accent colour or material to enhance the connection between rooms \u2013 we used brass touches throughout to add warmth\u2019 ",
+            "TextSize": 20.460006713867188,
+            "attributes": {
+                "LineHeight": 21.75,
+                "SpaceAfter": 18,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                54.40010070800781,
+                27.128631591796875,
+                205.1077117919922,
+                45.20367431640625
+            ],
+            "Font": {
+                "alt_family_name": "Ideal Sans",
+                "embedded": true,
+                "encoding": "Custom",
+                "family_name": "Ideal Sans",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ISGRZB+IdealSans-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[5]/Sect[2]/Sect/P[7]",
+            "Text": "12 | 25BH OCTOBER 2021 ",
+            "TextSize": 11.593994140625,
+            "attributes": {
+                "LineHeight": 13.875
+            }
+        }
+    ],
+    "pages": [
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ]
+            },
+            "height": 1121.27001953125,
+            "page_number": 0,
+            "rotation": 0,
+            "width": 811.9600219726562
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ]
+            },
+            "height": 1121.27001953125,
+            "page_number": 1,
+            "rotation": 0,
+            "width": 811.9600219726562
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    815.280029296875,
+                    1125.1199951171875
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    815.280029296875,
+                    1125.1199951171875
+                ]
+            },
+            "height": 1125.1199951171875,
+            "page_number": 2,
+            "rotation": 0,
+            "width": 815.280029296875
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    811.9600219726562,
+                    1121.27001953125
+                ]
+            },
+            "height": 1121.27001953125,
+            "page_number": 3,
+            "rotation": 0,
+            "width": 811.9600219726562
+        }
+    ]
+}

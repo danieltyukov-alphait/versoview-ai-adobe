@@ -25,7 +25,7 @@ try:
     extract_pdf_operation = ExtractPDFOperation.create_new()
 
     # Set operation input from a source file.
-    source = FileRef.create_from_local_file(base_path + "\\versoview-ai-adobe\\resources\\homes_removed.pdf")
+    source = FileRef.create_from_local_file(base_path + "\\versoview-ai-adobe\\resources\\good_sample.pdf")
     extract_pdf_operation.set_input(source)
 
     # Build ExtractPDF options and set them into the operation
